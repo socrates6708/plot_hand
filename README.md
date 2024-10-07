@@ -2,6 +2,7 @@
 # Hand Pose Visualization Tool
 
 This repository contains a Python script (`plot_hand.py`) designed to visualize hand poses using images and corresponding 3D hand keypoints. It projects these keypoints onto the image and aligns predicted points with ground truth points to visualize the results.
+Make sure you prepare 3D groundtruth and camera parameter of your own sensor to visualize the correct 2D hand images
 
 ## Prerequisites
 
