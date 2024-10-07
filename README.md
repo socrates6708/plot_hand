@@ -55,8 +55,8 @@ The points are plotted on top of the image in grayscale for easy comparison.
 
 ### Example Output
 The output image shows the hand keypoints connected by lines, providing a visual comparison of the predicted keypoints versus the ground truth keypoints.
-![Hand Pose Visualization 1](hand_pose_example_1.png)
-![Hand Pose Visualization 2](hand_pose_example_2.png)
+![Hand Pose Visualization 1](Ix_224_01.png)
+![Hand Pose Visualization 2](Ix_224_02.png)
 ## Notes
 - Ensure that the dataset paths are correctly configured for your environment.
 - Adjust the parameters like `num` and `set_name` in the script to visualize different images or datasets.
